@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.95.2](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.95.1...v2.95.2) (2026-06-20)
+
+
+### Bug Fixes
+
+* add --query-codes-from-file to update_all_products.pl ([#13784](https://github.com/openfoodfacts/openfoodfacts-server/issues/13784)) ([a2bcb31](https://github.com/openfoodfacts/openfoodfacts-server/commit/a2bcb31855090b3c668386d1c5b5d6514ecaac80))
+* bad path for taxonomies ([#13775](https://github.com/openfoodfacts/openfoodfacts-server/issues/13775)) ([1597382](https://github.com/openfoodfacts/openfoodfacts-server/commit/15973827fcbe9d9385dfc44f7dc2fadb86b5328d))
+* upgrade for undefined untaxonomized tags ([#13785](https://github.com/openfoodfacts/openfoodfacts-server/issues/13785)) ([daf5766](https://github.com/openfoodfacts/openfoodfacts-server/commit/daf5766298c8379bc9fac79c086e9008ca6be75f))
+
 ## [2.95.1](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.95.0...v2.95.1) (2026-06-17)
 
 
